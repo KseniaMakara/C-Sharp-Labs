@@ -1,0 +1,3 @@
+C:\C#\Functions\Func6\obj\Debug\netcoreapp3.1\Func6.AssemblyInfoInputs.cache
+C:\C#\Functions\Func6\obj\Debug\netcoreapp3.1\Func6.AssemblyInfo.cs
+C:\C#\Functions\Func6\obj\Debug\netcoreapp3.1\Func6.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\C#\Functions\Func5\bin\Debug\netcoreapp3.1\Func5.exe
+C:\C#\Functions\Func5\bin\Debug\netcoreapp3.1\Func5.deps.json
+C:\C#\Functions\Func5\bin\Debug\netcoreapp3.1\Func5.runtimeconfig.json
+C:\C#\Functions\Func5\bin\Debug\netcoreapp3.1\Func5.runtimeconfig.dev.json
+C:\C#\Functions\Func5\bin\Debug\netcoreapp3.1\Func5.dll
+C:\C#\Functions\Func5\bin\Debug\netcoreapp3.1\Func5.pdb
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.csprojAssemblyReference.cache
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.AssemblyInfoInputs.cache
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.AssemblyInfo.cs
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.csproj.CoreCompileInputs.cache
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.dll
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.pdb
+C:\C#\Functions\Func5\obj\Debug\netcoreapp3.1\Func5.genruntimeconfig.cache
