@@ -1,0 +1,13 @@
+C:\C#\Lab15(5)\bin\Debug\netcoreapp3.1\Lab15(5).exe
+C:\C#\Lab15(5)\bin\Debug\netcoreapp3.1\Lab15(5).deps.json
+C:\C#\Lab15(5)\bin\Debug\netcoreapp3.1\Lab15(5).runtimeconfig.json
+C:\C#\Lab15(5)\bin\Debug\netcoreapp3.1\Lab15(5).runtimeconfig.dev.json
+C:\C#\Lab15(5)\bin\Debug\netcoreapp3.1\Lab15(5).dll
+C:\C#\Lab15(5)\bin\Debug\netcoreapp3.1\Lab15(5).pdb
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).csprojAssemblyReference.cache
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).AssemblyInfoInputs.cache
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).AssemblyInfo.cs
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).csproj.CoreCompileInputs.cache
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).dll
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).pdb
+C:\C#\Lab15(5)\obj\Debug\netcoreapp3.1\Lab15(5).genruntimeconfig.cache
