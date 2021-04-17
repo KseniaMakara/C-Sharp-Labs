@@ -1,0 +1,13 @@
+C:\C#\Massives\Mass1(Lab6)\bin\Debug\netcoreapp3.1\Mass1(Lab6).exe
+C:\C#\Massives\Mass1(Lab6)\bin\Debug\netcoreapp3.1\Mass1(Lab6).deps.json
+C:\C#\Massives\Mass1(Lab6)\bin\Debug\netcoreapp3.1\Mass1(Lab6).runtimeconfig.json
+C:\C#\Massives\Mass1(Lab6)\bin\Debug\netcoreapp3.1\Mass1(Lab6).runtimeconfig.dev.json
+C:\C#\Massives\Mass1(Lab6)\bin\Debug\netcoreapp3.1\Mass1(Lab6).dll
+C:\C#\Massives\Mass1(Lab6)\bin\Debug\netcoreapp3.1\Mass1(Lab6).pdb
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).csprojAssemblyReference.cache
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).AssemblyInfoInputs.cache
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).AssemblyInfo.cs
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).csproj.CoreCompileInputs.cache
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).dll
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).pdb
+C:\C#\Massives\Mass1(Lab6)\obj\Debug\netcoreapp3.1\Mass1(Lab6).genruntimeconfig.cache

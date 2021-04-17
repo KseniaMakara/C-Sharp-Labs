@@ -1,0 +1,13 @@
+C:\C#\Massives\Massive1\bin\Debug\netcoreapp3.1\Massive1.exe
+C:\C#\Massives\Massive1\bin\Debug\netcoreapp3.1\Massive1.deps.json
+C:\C#\Massives\Massive1\bin\Debug\netcoreapp3.1\Massive1.runtimeconfig.json
+C:\C#\Massives\Massive1\bin\Debug\netcoreapp3.1\Massive1.runtimeconfig.dev.json
+C:\C#\Massives\Massive1\bin\Debug\netcoreapp3.1\Massive1.dll
+C:\C#\Massives\Massive1\bin\Debug\netcoreapp3.1\Massive1.pdb
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.csprojAssemblyReference.cache
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.AssemblyInfoInputs.cache
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.AssemblyInfo.cs
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.csproj.CoreCompileInputs.cache
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.dll
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.pdb
+C:\C#\Massives\Massive1\obj\Debug\netcoreapp3.1\Massive1.genruntimeconfig.cache

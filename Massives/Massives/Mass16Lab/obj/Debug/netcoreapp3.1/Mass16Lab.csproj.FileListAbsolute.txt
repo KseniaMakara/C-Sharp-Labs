@@ -1,0 +1,13 @@
+C:\C#\Massives\Mass16Lab\bin\Debug\netcoreapp3.1\Mass16Lab.exe
+C:\C#\Massives\Mass16Lab\bin\Debug\netcoreapp3.1\Mass16Lab.deps.json
+C:\C#\Massives\Mass16Lab\bin\Debug\netcoreapp3.1\Mass16Lab.runtimeconfig.json
+C:\C#\Massives\Mass16Lab\bin\Debug\netcoreapp3.1\Mass16Lab.runtimeconfig.dev.json
+C:\C#\Massives\Mass16Lab\bin\Debug\netcoreapp3.1\Mass16Lab.dll
+C:\C#\Massives\Mass16Lab\bin\Debug\netcoreapp3.1\Mass16Lab.pdb
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.csprojAssemblyReference.cache
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.AssemblyInfoInputs.cache
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.AssemblyInfo.cs
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.csproj.CoreCompileInputs.cache
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.dll
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.pdb
+C:\C#\Massives\Mass16Lab\obj\Debug\netcoreapp3.1\Mass16Lab.genruntimeconfig.cache

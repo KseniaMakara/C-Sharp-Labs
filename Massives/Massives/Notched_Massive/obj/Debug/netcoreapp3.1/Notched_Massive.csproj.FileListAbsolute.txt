@@ -1,0 +1,13 @@
+C:\C#\Massives\Notched_Massive\bin\Debug\netcoreapp3.1\Notched_Massive.exe
+C:\C#\Massives\Notched_Massive\bin\Debug\netcoreapp3.1\Notched_Massive.deps.json
+C:\C#\Massives\Notched_Massive\bin\Debug\netcoreapp3.1\Notched_Massive.runtimeconfig.json
+C:\C#\Massives\Notched_Massive\bin\Debug\netcoreapp3.1\Notched_Massive.runtimeconfig.dev.json
+C:\C#\Massives\Notched_Massive\bin\Debug\netcoreapp3.1\Notched_Massive.dll
+C:\C#\Massives\Notched_Massive\bin\Debug\netcoreapp3.1\Notched_Massive.pdb
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.csprojAssemblyReference.cache
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.AssemblyInfoInputs.cache
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.AssemblyInfo.cs
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.csproj.CoreCompileInputs.cache
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.dll
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.pdb
+C:\C#\Massives\Notched_Massive\obj\Debug\netcoreapp3.1\Notched_Massive.genruntimeconfig.cache

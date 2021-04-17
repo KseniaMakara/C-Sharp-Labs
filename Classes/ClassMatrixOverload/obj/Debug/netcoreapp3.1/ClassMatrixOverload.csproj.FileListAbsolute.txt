@@ -1,0 +1,13 @@
+C:\C#\Класи\ClassMatrixOverload\bin\Debug\netcoreapp3.1\ClassMatrixOverload.exe
+C:\C#\Класи\ClassMatrixOverload\bin\Debug\netcoreapp3.1\ClassMatrixOverload.deps.json
+C:\C#\Класи\ClassMatrixOverload\bin\Debug\netcoreapp3.1\ClassMatrixOverload.runtimeconfig.json
+C:\C#\Класи\ClassMatrixOverload\bin\Debug\netcoreapp3.1\ClassMatrixOverload.runtimeconfig.dev.json
+C:\C#\Класи\ClassMatrixOverload\bin\Debug\netcoreapp3.1\ClassMatrixOverload.dll
+C:\C#\Класи\ClassMatrixOverload\bin\Debug\netcoreapp3.1\ClassMatrixOverload.pdb
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.csprojAssemblyReference.cache
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.AssemblyInfoInputs.cache
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.AssemblyInfo.cs
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.csproj.CoreCompileInputs.cache
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.dll
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.pdb
+C:\C#\Класи\ClassMatrixOverload\obj\Debug\netcoreapp3.1\ClassMatrixOverload.genruntimeconfig.cache

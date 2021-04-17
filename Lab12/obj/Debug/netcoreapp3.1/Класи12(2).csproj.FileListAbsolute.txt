@@ -1,0 +1,13 @@
+C:\C#\Класи\Класи12(2)\bin\Debug\netcoreapp3.1\Класи12(2).exe
+C:\C#\Класи\Класи12(2)\bin\Debug\netcoreapp3.1\Класи12(2).deps.json
+C:\C#\Класи\Класи12(2)\bin\Debug\netcoreapp3.1\Класи12(2).runtimeconfig.json
+C:\C#\Класи\Класи12(2)\bin\Debug\netcoreapp3.1\Класи12(2).runtimeconfig.dev.json
+C:\C#\Класи\Класи12(2)\bin\Debug\netcoreapp3.1\Класи12(2).dll
+C:\C#\Класи\Класи12(2)\bin\Debug\netcoreapp3.1\Класи12(2).pdb
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).csprojAssemblyReference.cache
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).AssemblyInfoInputs.cache
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).AssemblyInfo.cs
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).csproj.CoreCompileInputs.cache
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).dll
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).pdb
+C:\C#\Класи\Класи12(2)\obj\Debug\netcoreapp3.1\Класи12(2).genruntimeconfig.cache

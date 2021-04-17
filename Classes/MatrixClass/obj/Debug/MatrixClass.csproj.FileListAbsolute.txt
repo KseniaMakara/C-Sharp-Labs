@@ -1,0 +1,10 @@
+C:\C#\Класи\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\C#\Класи\MatrixClass\bin\Debug\MatrixClass.exe
+C:\C#\Класи\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.csprojAssemblyReference.cache
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.Form1.resources
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.Properties.Resources.resources
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.csproj.GenerateResource.cache
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.csproj.CoreCompileInputs.cache
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.exe
+C:\C#\Класи\MatrixClass\obj\Debug\MatrixClass.pdb
