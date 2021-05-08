@@ -1,0 +1,10 @@
+C:\C#\Lab19.2.5\bin\Debug\Lab19.2.5.exe.config
+C:\C#\Lab19.2.5\bin\Debug\Lab19.2.5.exe
+C:\C#\Lab19.2.5\bin\Debug\Lab19.2.5.pdb
+C:\C#\Lab19.2.5\obj\Debug\Lab19.2.5.csprojAssemblyReference.cache
+C:\C#\Lab19.2.5\obj\Debug\Lab19._2._5.Form1.resources
+C:\C#\Lab19.2.5\obj\Debug\Lab19._2._5.Properties.Resources.resources
+C:\C#\Lab19.2.5\obj\Debug\Lab19.2.5.csproj.GenerateResource.cache
+C:\C#\Lab19.2.5\obj\Debug\Lab19.2.5.csproj.CoreCompileInputs.cache
+C:\C#\Lab19.2.5\obj\Debug\Lab19.2.5.exe
+C:\C#\Lab19.2.5\obj\Debug\Lab19.2.5.pdb
