@@ -1,0 +1,13 @@
+C:\C#\Files\Lab231\bin\Debug\netcoreapp3.1\Lab231.exe
+C:\C#\Files\Lab231\bin\Debug\netcoreapp3.1\Lab231.deps.json
+C:\C#\Files\Lab231\bin\Debug\netcoreapp3.1\Lab231.runtimeconfig.json
+C:\C#\Files\Lab231\bin\Debug\netcoreapp3.1\Lab231.runtimeconfig.dev.json
+C:\C#\Files\Lab231\bin\Debug\netcoreapp3.1\Lab231.dll
+C:\C#\Files\Lab231\bin\Debug\netcoreapp3.1\Lab231.pdb
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.csprojAssemblyReference.cache
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.AssemblyInfoInputs.cache
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.AssemblyInfo.cs
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.csproj.CoreCompileInputs.cache
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.dll
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.pdb
+C:\C#\Files\Lab231\obj\Debug\netcoreapp3.1\Lab231.genruntimeconfig.cache
