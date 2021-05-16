@@ -1,0 +1,7 @@
+C:\C#\Files\Lab19.3.11\bin\Debug\Lab19.3.11.exe.config
+C:\C#\Files\Lab19.3.11\bin\Debug\Lab19.3.11.exe
+C:\C#\Files\Lab19.3.11\bin\Debug\Lab19.3.11.pdb
+C:\C#\Files\Lab19.3.11\obj\Debug\Lab19.3.11.csprojAssemblyReference.cache
+C:\C#\Files\Lab19.3.11\obj\Debug\Lab19.3.11.csproj.CoreCompileInputs.cache
+C:\C#\Files\Lab19.3.11\obj\Debug\Lab19.3.11.exe
+C:\C#\Files\Lab19.3.11\obj\Debug\Lab19.3.11.pdb

@@ -1,0 +1,10 @@
+C:\C#\Files\Lab19.3\bin\Debug\Lab19.3.exe.config
+C:\C#\Files\Lab19.3\bin\Debug\Lab19.3.exe
+C:\C#\Files\Lab19.3\bin\Debug\Lab19.3.pdb
+C:\C#\Files\Lab19.3\obj\Debug\Lab19.3.csprojAssemblyReference.cache
+C:\C#\Files\Lab19.3\obj\Debug\Lab19._3.Form1.resources
+C:\C#\Files\Lab19.3\obj\Debug\Lab19._3.Properties.Resources.resources
+C:\C#\Files\Lab19.3\obj\Debug\Lab19.3.csproj.GenerateResource.cache
+C:\C#\Files\Lab19.3\obj\Debug\Lab19.3.csproj.CoreCompileInputs.cache
+C:\C#\Files\Lab19.3\obj\Debug\Lab19.3.exe
+C:\C#\Files\Lab19.3\obj\Debug\Lab19.3.pdb
