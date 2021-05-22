@@ -1,0 +1,10 @@
+C:\C#\matrixLab\bin\Debug\matrixLab.exe.config
+C:\C#\matrixLab\bin\Debug\matrixLab.exe
+C:\C#\matrixLab\bin\Debug\matrixLab.pdb
+C:\C#\matrixLab\obj\Debug\matrixLab.csprojAssemblyReference.cache
+C:\C#\matrixLab\obj\Debug\matrixLab.Form1.resources
+C:\C#\matrixLab\obj\Debug\matrixLab.Properties.Resources.resources
+C:\C#\matrixLab\obj\Debug\matrixLab.csproj.GenerateResource.cache
+C:\C#\matrixLab\obj\Debug\matrixLab.csproj.CoreCompileInputs.cache
+C:\C#\matrixLab\obj\Debug\matrixLab.exe
+C:\C#\matrixLab\obj\Debug\matrixLab.pdb

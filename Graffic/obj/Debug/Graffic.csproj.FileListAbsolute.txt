@@ -1,0 +1,10 @@
+C:\C#\Graffic\bin\Debug\Graffic.exe.config
+C:\C#\Graffic\bin\Debug\Graffic.exe
+C:\C#\Graffic\bin\Debug\Graffic.pdb
+C:\C#\Graffic\obj\Debug\Graffic.csprojAssemblyReference.cache
+C:\C#\Graffic\obj\Debug\Graffic.Form1.resources
+C:\C#\Graffic\obj\Debug\Graffic.Properties.Resources.resources
+C:\C#\Graffic\obj\Debug\Graffic.csproj.GenerateResource.cache
+C:\C#\Graffic\obj\Debug\Graffic.csproj.CoreCompileInputs.cache
+C:\C#\Graffic\obj\Debug\Graffic.exe
+C:\C#\Graffic\obj\Debug\Graffic.pdb
