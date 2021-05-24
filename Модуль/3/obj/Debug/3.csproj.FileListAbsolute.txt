@@ -1,0 +1,10 @@
+C:\C#\3\bin\Debug\3.exe.config
+C:\C#\3\bin\Debug\3.exe
+C:\C#\3\bin\Debug\3.pdb
+C:\C#\3\obj\Debug\3.csprojAssemblyReference.cache
+C:\C#\3\obj\Debug\_3.Form1.resources
+C:\C#\3\obj\Debug\_3.Properties.Resources.resources
+C:\C#\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\C#\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\C#\3\obj\Debug\3.exe
+C:\C#\3\obj\Debug\3.pdb
