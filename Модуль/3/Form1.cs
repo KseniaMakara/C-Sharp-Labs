@@ -17,8 +17,6 @@ namespace _3
         private List<Menu> Dishes { get; set; }
         public Form1()
         {
-            
-
             Dishes = GetDish();
             InitializeComponent();
         }
@@ -58,17 +56,10 @@ namespace _3
             return list;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            var people = this.Dishes;
-            dataGridView1.DataSource = people;
-        }
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
-
 
         private void saveToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
@@ -97,5 +88,7 @@ namespace _3
             var dish = this.Dishes;
             dataGridView1.DataSource = dish;
         }
+
+
     }
 }
