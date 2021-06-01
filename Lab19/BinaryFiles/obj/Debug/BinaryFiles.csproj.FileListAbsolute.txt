@@ -1,0 +1,10 @@
+C:\C#\BinaryFiles\bin\Debug\BinaryFiles.exe.config
+C:\C#\BinaryFiles\bin\Debug\BinaryFiles.exe
+C:\C#\BinaryFiles\bin\Debug\BinaryFiles.pdb
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.csprojAssemblyReference.cache
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.Form1.resources
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.Properties.Resources.resources
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.csproj.GenerateResource.cache
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.csproj.CoreCompileInputs.cache
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.exe
+C:\C#\BinaryFiles\obj\Debug\BinaryFiles.pdb
