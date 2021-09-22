@@ -1,0 +1,14 @@
+D:\C#\xmlLab\xmlLab\bin\Debug\netcoreapp3.1\xmlLab.exe
+D:\C#\xmlLab\xmlLab\bin\Debug\netcoreapp3.1\xmlLab.deps.json
+D:\C#\xmlLab\xmlLab\bin\Debug\netcoreapp3.1\xmlLab.runtimeconfig.json
+D:\C#\xmlLab\xmlLab\bin\Debug\netcoreapp3.1\xmlLab.runtimeconfig.dev.json
+D:\C#\xmlLab\xmlLab\bin\Debug\netcoreapp3.1\xmlLab.dll
+D:\C#\xmlLab\xmlLab\bin\Debug\netcoreapp3.1\xmlLab.pdb
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.csproj.AssemblyReference.cache
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.AssemblyInfoInputs.cache
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.AssemblyInfo.cs
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.csproj.CoreCompileInputs.cache
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.dll
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.pdb
+D:\C#\xmlLab\xmlLab\obj\Debug\netcoreapp3.1\xmlLab.genruntimeconfig.cache
