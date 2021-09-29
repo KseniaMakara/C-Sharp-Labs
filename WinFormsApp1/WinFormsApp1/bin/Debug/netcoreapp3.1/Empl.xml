@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <empList>
+    <EmployeesAddList>
+      <name>fgdhf</name>
+      <position>rhdhdh</position>
+      <salary>0</salary>
+      <children>0</children>
+      <xp>0</xp>
+    </EmployeesAddList>
+  </empList>
+</Employees>

@@ -1,0 +1,16 @@
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\jsonLab.exe
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\jsonLab.deps.json
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\jsonLab.runtimeconfig.json
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\jsonLab.runtimeconfig.dev.json
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\jsonLab.dll
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\jsonLab.pdb
+D:\C#\jsonLab\jsonLab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.csproj.AssemblyReference.cache
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.AssemblyInfoInputs.cache
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.AssemblyInfo.cs
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.csproj.CoreCompileInputs.cache
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.csproj.CopyComplete
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.dll
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.pdb
+D:\C#\jsonLab\jsonLab\obj\Debug\netcoreapp3.1\jsonLab.genruntimeconfig.cache

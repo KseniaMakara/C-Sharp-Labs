@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfEmoloyee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Emoloyee>
+    <Name>Freddie Mercury</Name>
+    <Position>singer</Position>
+    <Salary>16000</Salary>
+    <Children>0</Children>
+    <Xp>30</Xp>
+  </Emoloyee>
+  <Emoloyee>
+    <Name>Michael Jackson</Name>
+    <Position>singer</Position>
+    <Salary>20000</Salary>
+    <Children>1</Children>
+    <Xp>30</Xp>
+  </Emoloyee>
+  <Emoloyee>
+    <Name>Paul McCartney</Name>
+    <Position>singer</Position>
+    <Salary>12000</Salary>
+    <Children>2</Children>
+    <Xp>50</Xp>
+  </Emoloyee>
+  <Emoloyee>
+    <Name>Axl Rose</Name>
+    <Position>singer</Position>
+    <Salary>6000</Salary>
+    <Children>0</Children>
+    <Xp>40</Xp>
+  </Emoloyee>
+  <Emoloyee>
+    <Name>Stella</Name>
+    <Position>fairy</Position>
+    <Salary>60000</Salary>
+    <Children>0</Children>
+    <Xp>12</Xp>
+  </Emoloyee>
+</ArrayOfEmoloyee>
