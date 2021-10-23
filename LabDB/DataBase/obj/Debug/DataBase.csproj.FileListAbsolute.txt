@@ -1,0 +1,12 @@
+C:\C#\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\C#\DataBase\obj\Debug\DataBase.Form1.resources
+C:\C#\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\C#\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\C#\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\C#\DataBase\bin\Debug\Database1.mdf
+C:\C#\DataBase\bin\Debug\Database1_log.ldf
+C:\C#\DataBase\bin\Debug\DataBase.exe.config
+C:\C#\DataBase\bin\Debug\DataBase.exe
+C:\C#\DataBase\bin\Debug\DataBase.pdb
+C:\C#\DataBase\obj\Debug\DataBase.exe
+C:\C#\DataBase\obj\Debug\DataBase.pdb
