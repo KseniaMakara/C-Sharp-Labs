@@ -19,7 +19,7 @@ namespace Lab3._1DB
 
             InitializeComponent();
         }
-        // 1 вивід
+     
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -30,7 +30,7 @@ namespace Lab3._1DB
             }
 
         }
-        //2 а) пошук по курсу
+      
         private void buttonClear_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
@@ -43,7 +43,7 @@ namespace Lab3._1DB
             }
             dataGridView1.DataSource = stud;
         }
-        // пошук по імені
+       
         private void maxRate_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
@@ -56,7 +56,7 @@ namespace Lab3._1DB
             }
             dataGridView1.DataSource = stud;
         }
-        // 4 видалення нйменшого числового поля
+       
         private void button3_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
@@ -68,7 +68,7 @@ namespace Lab3._1DB
             }
             dataGridView1.DataSource = stud;
         }
-        // 3
+        
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
@@ -79,7 +79,7 @@ namespace Lab3._1DB
             }
             dataGridView1.DataSource = stud;
         }
-        // 2 б)
+       
         private void MaxValueRate_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
@@ -91,7 +91,7 @@ namespace Lab3._1DB
             }
             dataGridView1.DataSource = stud;
         }
-        // 2 в)
+       
         private void countStud_Click(object sender, EventArgs e)
         {
             using (UniversityContext un = new UniversityContext())
