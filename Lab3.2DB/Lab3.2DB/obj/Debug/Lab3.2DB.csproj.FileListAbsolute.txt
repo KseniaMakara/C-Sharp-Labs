@@ -1,0 +1,12 @@
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3.2DB.csproj.AssemblyReference.cache
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3._2DB.Form1.resources
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3._2DB.Properties.Resources.resources
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3.2DB.csproj.GenerateResource.cache
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3.2DB.csproj.CoreCompileInputs.cache
+D:\C#\Lab3.2DB\Lab3.2DB\bin\Debug\Univer.mdf
+D:\C#\Lab3.2DB\Lab3.2DB\bin\Debug\Univer_log.ldf
+D:\C#\Lab3.2DB\Lab3.2DB\bin\Debug\Lab3.2DB.exe.config
+D:\C#\Lab3.2DB\Lab3.2DB\bin\Debug\Lab3.2DB.exe
+D:\C#\Lab3.2DB\Lab3.2DB\bin\Debug\Lab3.2DB.pdb
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3.2DB.exe
+D:\C#\Lab3.2DB\Lab3.2DB\obj\Debug\Lab3.2DB.pdb
